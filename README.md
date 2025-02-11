@@ -115,6 +115,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Feel free to reach out if you have any questions or suggestions:
 
-- GitHub: [YourUsername](https://github.com/YourUsername)
-- Email: your.email@example.com
+- GitHub: [YourUsername](https://github.com/ethanabraham)
+- Email: your.email@ethanabraham.com
 ```

@@ -118,16 +118,3 @@ Feel free to reach out if you have any questions or suggestions:
 - GitHub: [YourUsername](https://github.com/YourUsername)
 - Email: your.email@example.com
 ```
-
----
-
-### Key Points for Your GitHub Repository:
-1. **Title**: Keep it descriptive yet concise (e.g., "Folder Creator Tool").
-2. **README**: Include clear instructions, examples, and project structure.
-3. **Licensing**: Add an MIT License (or your preferred license) to make it open source.
-4. **Customization**: Replace placeholders like `YourUsername` and `your.email@example.com` with your actual details.
-
-This setup will make your repository look professional and easy to use!
-
----
-Answer from Perplexity: pplx.ai/share

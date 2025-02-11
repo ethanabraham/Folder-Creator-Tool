@@ -1,8 +1,3 @@
-# Folder-Creator-Tool
-Here’s a suitable title and description for your GitHub repository, along with a README template to make it professional and user-friendly.
-
----
-
 ### Repository Title:
 **Folder Creator Tool: Automate Folder Creation from Text File**
 

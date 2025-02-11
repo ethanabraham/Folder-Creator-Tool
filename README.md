@@ -24,7 +24,7 @@ A simple Python script to automate the creation of multiple folders based on fol
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/YourUsername/folder-creator-tool.git
+   git clone https://github.com/ethanabraham/folder-creator-tool.git
    cd folder-creator-tool
    ```
 
